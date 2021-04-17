@@ -19,3 +19,26 @@
   color: white;
   padding: 80px;
 }
+.whatwedo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 50px;
+  padding-right: 50px;
+  
+}
+h4{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.pwhatwedo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+.pwhatwedo>p{
+  position: relative;
+  left: 40px;
+}
