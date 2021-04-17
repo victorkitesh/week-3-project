@@ -1,4 +1,8 @@
 .header{
   background-image: url(images/h_img.jpg);
+  background-size: cover;
+  height: max-content;
   text-align: center;
+  padding: 100px;
+  color: white;
 }
