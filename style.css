@@ -64,4 +64,16 @@ padding-right: 80px;
 }
 .contact{
   background-image: url(images/t_image.jpg);
+  background-size: cover;
+  color: white;
+}
+h6{
+  text-align: center;
+}
+#message{
+  border: 1px solid white;
+  height: 300px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 80px;
 }
