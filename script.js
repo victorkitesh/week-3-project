@@ -42,3 +42,20 @@ $(document).ready(function(){
   
 });
 
+$(document).ready(function(){
+
+  $('#image3').on('click', function(){
+  $('#image3').toggle();
+  $('#div3').show();
+  });
+  
+});
+
+$(document).ready(function(){
+
+  $('#div3').on('click', function(){
+  $('#div3').toggle();
+  $('#image3').show();
+  });
+  
+});
