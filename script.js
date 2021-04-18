@@ -23,3 +23,22 @@ $(document).ready(function(){
   });
   
 });
+
+$(document).ready(function(){
+
+  $('#image2').on('click', function(){
+  $('#image2').toggle();
+  $('#div2').show();
+  });
+  
+});
+
+$(document).ready(function(){
+
+  $('#div2').on('click', function(){
+  $('#div2').toggle();
+  $('#image2').show();
+  });
+  
+});
+
