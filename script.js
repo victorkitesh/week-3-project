@@ -58,4 +58,76 @@ $(document).ready(function(){
   $('#image3').show();
   });
   
+}); 
+
+$(document).ready(function(){
+  $("#hover1").hover(function(){
+    $('.project1').toggle();
+
+  });
+
 });
+
+$(document).ready(function(){
+  $("#hover2").hover(function(){
+    $('.project2').toggle();
+
+  });
+
+});
+
+$(document).ready(function(){
+  $("#hover3").hover(function(){
+    $('.project3').toggle();
+
+  });
+
+});
+
+$(document).ready(function(){
+  $("#hover4").hover(function(){
+    $('.project4').toggle();
+
+  });
+
+});
+$(document).ready(function(){
+  $("#hover5").hover(function(){
+    $('.project5').toggle();
+
+  });
+
+});
+
+$(document).ready(function(){
+  $("#hover6").hover(function(){
+    $('.project6').toggle();
+
+  });
+
+});
+
+$(document).ready(function(){
+  $("#hover7").hover(function(){
+    $('.project7').toggle();
+
+  });
+
+});
+
+$(document).ready(function(){
+  $("#hover8").hover(function(){
+    $('.project8').toggle();
+
+  });
+
+});
+
+$(document).ready(function(){
+  $("#button").on('click', function(){
+   
+    $('#message').append('$(#name)'+"we have received your message. Thank you fro reaching out to us.");
+  });
+
+});
+

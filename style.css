@@ -35,13 +35,10 @@ h4{
 .pwhatwedo{
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
 
 }
-.pwhatwedo>p{
-  position: relative;
-  left: 40px;
-}
+
 .portfolio>h5{
   padding: 20px;
   text-align: center;
@@ -103,10 +100,36 @@ h6{
 }
 .firstp{
   text-align: center;
+  font-size: small;
 }
 .secondp{
   text-align: center;
+  font-size: small;
 }
 h2{
   text-align: center;
+  font-size: larger;
 }
+.project1 {
+display: none;
+}
+.project2 {
+  display: none;
+  }
+  .project3 {
+    display: none;
+    }
+    .project4 {
+      display: none;
+      }
+      .project5 {
+        display: none;
+        } 
+        .project6 {
+          display: none;
+          }
+          .project7 {
+            display: none;
+            }.project8 {
+              display: none;
+              }        
