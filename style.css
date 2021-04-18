@@ -46,6 +46,7 @@ h4{
   padding: 20px;
   text-align: center;
   font-size: xx-large;
+  font-weight: 700;
 
 }
 .imagesportfolio1{
@@ -66,19 +67,40 @@ padding-right: 80px;
   background-image: url(images/t_image.jpg);
   background-size: cover;
   color: white;
+  margin-top: 20px;
 }
 h6{
   text-align: center;
+  font-size: xx-large;
+  padding-top: 50px;
 }
 #message{
   border: 1px solid white;
   height: 300px;
   margin-left: 250px;
   margin-right: 250px;
-  margin-top: 80px;
+  margin-top: 40px;
 }
 .footer{
   margin-top: 20px;
   margin-bottom: 20px;
+  text-align: center;
+}
+#button{
+  padding-bottom: 30px;
+  padding-top: 20px;
+  position: relative;
+  left: 300px;
+}
+#div1{
+  display: none;
+}
+.firstp{
+  text-align: center;
+}
+.secondp{
+  text-align: center;
+}
+h2{
   text-align: center;
 }
