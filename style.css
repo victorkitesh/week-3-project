@@ -112,24 +112,58 @@ h2{
 }
 .project1 {
 display: none;
+position: relative;
+left: 80px;
+color: white;
+            
+              
 }
 .project2 {
   display: none;
+  position: relative;
+right: 80px;
+color: white;
+  
   }
   .project3 {
     display: none;
+  
+    position: relative;
+  right: 80px;
+  color: white;
     }
     .project4 {
       display: none;
+      
+      position: relative;
+    right: 80px;
+    color: white;
+      
       }
       .project5 {
         display: none;
+        position: relative;
+        right: 80px;
+        color: black;
         } 
         .project6 {
           display: none;
+          position: relative;
+          right: 100px;
+          color: black;
           }
           .project7 {
             display: none;
-            }.project8 {
-              display: none;
-              }        
+            position: relative;
+            right: 80px;
+            color: white;
+          
+           
+              
+  }.project8 {
+   display: none;
+    position: absolute;
+   right: 80px;
+    
+   } 
+

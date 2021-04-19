@@ -125,8 +125,9 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#button").on('click', function(){
+    
    
-    $('#message').append('$(#name)'+"we have received your message. Thank you fro reaching out to us.");
+    $('#message').append("we have received your message. Thank you fro reaching out to us.");
   });
 
 });
